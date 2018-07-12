@@ -28,33 +28,12 @@
             {PROLOGUE_STAGE1_END}
         [/part]
         [part]
-            story= _ "Dark years passed. Human generations grew up in slavery, worked tirelessly under whip and shackle. As the decades passed, the humans of the north forgot that they had ever been free and nearly lost all hope — until a fateful day in 518YW."
+            story= _ "Dark years passed. Human generations grew up in slavery, worked tirelessly under whip and shackle. The orcs' iron grip on the land grew stronger as they captured unwitting travelers from the south, forcing more and more humans under their oppressive reign. As the decades passed, the humans of the north forgot that they had ever been free and nearly lost all hope."
             {NR_BIGMAP}
             {PROLOGUE_STAGE1_END}
         [/part]
         [part]
-            story= _ "It was an early spring day like any other. The humans, under the callous orcish whips, were planting the yearly crop beneath the dry, unforgiving sun. Then, all at once, the war-drums of the orcs began pounding; harsh war-cries sounded as orcs mustered to gather their weapons and man their posts. As the startled peasants looked around in alarm, they saw him."
-            {NR_BIGMAP}
-            {PROLOGUE_STAGE1_END}
-        [/part]
-        [part]
-            story= _ "He came charging out of the woods, cape streaming in the breeze, sword flashing quicker than thought. To his right fought an elderly mage whose deep voice boomed incantations over the clamor of the battle. To his left, glowing with mystic faerie fire and arcane energy, was a great lord of the elves. They were followed closely and supported by a small, but powerful army."
-            {NR_BIGMAP}
-            {PROLOGUE_STAGE1_END}
-        [/part]
-        [part]
-            # po: tyrant -> Queen Asheviere from Heir to the Throne.
-            story= _ "Word quickly spread among the humans that this hero was none other than Prince Konrad of Wesnoth, faring to the ruins of Knalga to retrieve the Sceptre of Fire and use it to save his homeland from the rule of a tyrant. They stood, rooted to their places in awe, watching as the hated orcs fell."
-            {NR_BIGMAP}
-            {PROLOGUE_STAGE1_END}
-        [/part]
-        [part]
-            story= _ "As quickly as it had begun, it was over. Konrad reached the entrance to the tunnels and ushered his men through. Then he turned one last time to face the peasants. Raising his sword in salute and farewell, he called out to them: <i>“Hold fast your hope, for one day you shall be free!”</i> Then he was gone, and with him, they thought, their dreams of freedom."
-            {NR_BIGMAP}
-            {PROLOGUE_STAGE1_END}
-        [/part]
-        [part]
-            story= _ "Konrad, however, did not leave the people of the Dwarven Doors empty handed. By chance, during the young prince's rush through the ruins of Knalga, a small band of his army was captured by the orcs and put to work alongside the peasants. Among them were two magi, Thera and Morvin, who befriended a peasant boy named Tallin."
+            story= _ "In 534 YW, a small group of adventurers was captured and sent to work in the fields surrounding the Dwarven Doors. Among them were two magi, Thera and Morvin, who befriended a peasant boy named Tallin."
             {NR_BIGMAP}
             {REVOLT_STAGE1}
         [/part]
@@ -63,7 +42,7 @@
     # first scene, Tallin working in the fields beside Morvin and Thera under the watch of a slavedriver
     [message]
         speaker=narrator
-        message= _ "The sun beats down heavily overhead. It has not rained in days. Although it has not yet reached noon, the slaves have already been working for hours in the dreadful heat."
+        message= _ "The sun beats down heavily overhead. It has not rained in days. Although it has not yet reached noon, the slaves have already been working for hours in dreadful heat."
     [/message]
     [message]
         speaker=Tallin
@@ -93,7 +72,7 @@
         message= _ "Hrrmph."
     [/message]
     
-    # move Tallin back, Slavedriver is satisfied and moves away a little bit
+    # move Tallin back, Slavedriver is satisfied and moves away
     
     [message]
         speaker=Morvin
@@ -109,25 +88,89 @@
     [/message]
     [message]
         speaker=Thera
-        message= _ "Morvin, leave the boy alone, will you? You know that's not helping."
-    [/message]
-    [message]
-        speaker=Thera
-        message= _ "Tallin, would you like to hear another story about Konrad?"
-    [/message]
-    [message]
-        speaker=Tallin
-        message= _ "I've already heard them all many times. Ugh. You two always talk about how it was when you were free and being able to live your lives the way you wanted to. Don't get me wrong, I like hearing about it. It's just..."
-    [/message]
-    [message]
-        speaker=Thera
-        message= _ "What is it, Tallin?"
-    [/message]
-    [message]
-        speaker=Tallin
-        message= _ "I'm just tired of only hearing about it all the time. I want that freedom to be a reality."
+        message= _ "Morvin, leave the boy alone, will you? You know criticizing him isn't helpful."
     [/message]
     [message]
         speaker=Morvin
-        message= _ ""
+        message= _ "Okay, okay. Sheesh, I was only trying to raise his spirits a bit. Tallin, would you like to hear another story from our days in Wesnoth?"
+    [/message]
+    [message]
+        speaker=Tallin
+        message= _ "Sure."
+    [/message]
+    [message]
+        speaker=Thera
+        message= _ "Hey, it's my turn this time!"
+    [/message]
+    [message]
+        speaker=Morvin
+        message= _ "What are you talking about? You were the one blabbing on and on last night about that time we filled Elenia's house with pumpkins."
+    [/message]
+    [message]
+        speaker=Thera
+        message= _ "Yes, but I just thought of another good story. So it's my turn."
+    [/message]
+    [message]
+        speaker=Morvin
+        message= _ "Fine, fine."
+    [/message]
+    [message]
+        speaker=Thera
+        message= _ "So this is from when me and Morvin were good friends, but before we got together. We were at a dancing party, and like the jerk he is, Morvin decided to go dance with another girl."
+    [/message]
+    [message]
+        speaker=Morvin
+        message= _ "She invited me!"
+    [/message]
+    [message]
+        speaker=Thera
+        message= _ "So I'm left waiting off to the side while he's out there in the middle of everyone, having fun a lot of fun dancing with someone else. I was definitely not happy about that."
+    [/message]
+    [message]
+        speaker=Morvin
+        message= _ "You could have asked to dance with me, but you missed your chance!"
+    [/message]
+    [message]
+        speaker=Thera
+        message= _ "Worst part is, there was going to be a little contest at the end of the party, and obviously Morvin was going to do it with his new friend instead of me. So, I hatched a plan. When it was their turn, I let them go up in front of everyone and dance for a minute. Then, I snuck around behind them and cast a little spell on Morvin dear while he was in the middle of a jump."
+    [/message]
+    [message]
+        speaker=Morvin
+        message= _ "Yeah, you made my pants fall down, and then I tripped, and then I fell on my face, and then I was the laughingstock of the whole village for months. Happy times."
+    [/message]
+    [message]
+        speaker=Thera
+        message= _ "(<i>smiles</i>) Very happy times. Right, Tallin?"
+    [/message]
+    [message]
+        speaker=Thera
+        message= _ "... Tallin? What's wrong?"
+    [/message]
+    [message]
+        speaker=Tallin
+        message= _ "Oh, nothing. It's just, even if I love hearing your stories, I get tired of only hearing about what it's like being free from this life. I want to be able to experience it too. I want all of my friends here to be free, just like you and your friends were."
+    [/message]
+    [message]
+        speaker=Morvin
+        message= _ "We know, Tallin, but that's not something-"
+    [/message]
+    [message]
+        speaker=Tallin
+        message= _ "I stayed up late last night, thinking about it. I couldn't sleep."
+    [/message]
+    [message]
+        speaker=Morvin
+        message= _ "That's not good for a growing boy like you-"
+    [/message]
+    [message]
+        speaker=Tallin
+        message= _ "And I came up with a plan."
+    [/message]
+    [message]
+        speaker=Thera
+        message= _ "Oh? You did? Let's hear it!"
+    [/message]
+    [message]
+        speaker=Morvin
+        message= _ "You people are crazy."
     [/message]
