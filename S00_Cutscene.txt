@@ -2,28 +2,27 @@
     
     [story]
         [part]
-            story= _ "Far to the north of Wesnoth by the dwarven caves of Knalga, there was once a thriving community known as Dwarven Doors. From all over Wesnoth, traders hailing from various surface nations brought plentiful goods for mutual—and peaceful—exchange. Dwarves and humans worked and lived side by side; even the elves who came to trade mingled more with the other races than was common elsewhere. Dwarven Doors grew populous and wealthy."
+            story= _ "Far to the north of Wesnoth by the dwarven caves of Knalga, there was once a thriving community known called Dwarven Doors. Traders hailing from various surface nations brought plentiful goods for mutual and peaceful exchange. Dwarves and humans worked and lived side by side; even the elves who came to trade mingled more with other races than was common elsewhere. Dwarven Doors grew populous and wealthy."
             {NR_BIGMAP}
             {PROLOGUE_STAGE1}
         [/part]
         [part]
-            story= _ "Knowing that the wealth of their nation might arouse envy from afar, the peoples of the Dwarven Doors built strong fortifications around their settlements, strengthening Knalga against roving bandit gangs and petty warlords. For many years it was indeed so. Dwarven Doors was a peaceful and prosperous place until the orcs came."
+            story= _ "Knowing that the wealth of their nation might arouse envy, the peoples of the Dwarven Doors fortified their settlements, strengthening Knalga against roving bandit gangs and petty warlords. For many years, they lived peacefully and prosperously in the shadows of the mountains. Then, the orcs came."
             {NR_BIGMAP}
             {PROLOGUE_STAGE1_END}
         [/part]
         [part]
-            story= _ "The first few orcish forays were no more than mere rabble bashing their skulls against the reinforced gates to Knalga. The humans and dwarves paid them no heed, believing the disorganized orcs to be no threat to their city. But over time, the little incursions grew into raids, then into vicious assaults, as the numerous war-bands pillaged and razed the villages surrounding Dwarven Doors. Then there arose a great warlord among the Bloody Sword tribe, the chieftain called Khazg Black-Tusk, who united a great army of orcs and laid siege to Knalga."
+            story= _ "The first few forays were no more than mere rabble bashing their skulls against the reinforced gates of Knalga. The humans and dwarves paid them no heed, believing the disorganized orcs to be little more than paltry brigands. But over time, the little incursions grew into raids, then into vicious assaults as the numerous war-bands pillaged and razed the villages surrounding Dwarven Doors. Then, there arose a great warlord among the Bloody Sword tribe, a chieftain called Khazg Black-Tusk, who united a vast army of orcs and laid siege to Knalga."
             {NR_BIGMAP}
             {PROLOGUE_STAGE1_END}
         [/part]
         [part]
-            # wmllint: local spelling unthreatened
-            story= _ "It was a time of doom, of fire, of blood and slaughter. The men and dwarves of the city fought valiantly, felling countless scores of their foes as they held their fortifications unflinchingly. Days passed into weeks, into months, but no matter how long the peoples of Knalga resisted, there were always, it seemed, more orcs to replace the slain. Pleas for help went unheeded in other lands, for they were far away wrapped up in their own affairs and struggles. The defenders of Dwarven Doors stood alone against the innumerable orcish horde."
+            story= _ "The men and dwarves of the city fought valiantly, defending their fortifications unflinchingly. Days passed into weeks, into months, but no matter how long the peoples of Knalga resisted, there were always more orcs to replace the slain. Pleas for help from other lands went unheeded, for they were far away wrapped up in their own affairs and struggles. The defenders of Dwarven Doors stood alone against the innumerable orcish hordes."
             {NR_BIGMAP}
             {PROLOGUE_STAGE1_END}
         [/part]
         [part]
-            story= _ "After a year and a day of grim battle, the city fell. Its streets ran with gore and its walls were painted with blood. Unable to hold back the impetuous onslaught, the dwarves were pushed back into the caverns of Knalga, while the humans of Dwarven Doors who survived the sack were enslaved by the orcs. Cut off from contact with the surface, the dwarves of Knalga fought on, but knew their utter subjugation could not be averted forever."
+            story= _ "After a year and a day of grim battle, the city fell. Its streets ran with gore and its walls were painted with blood. Unable to hold back the impetuous onslaught, the dwarves were pushed back into the caverns of Knalga, while the humans who survived the sack were enslaved by the orcs. Cut off from contact with the surface, the dwarves of Knalga fought on, but knew their utter subjugation could not be averted forever."
             {NR_BIGMAP}
             {PROLOGUE_STAGE1_END}
         [/part]
@@ -33,7 +32,7 @@
             {PROLOGUE_STAGE1_END}
         [/part]
         [part]
-            story= _ "In 534 YW, a small group of adventurers was captured and sent to work in the fields surrounding the Dwarven Doors. Among them were two magi, Thera and Morvin, who befriended a peasant boy named Tallin."
+            story= _ "Then, in 534 YW, a small group of adventurers was captured and sent to work in the fields surrounding the Dwarven Doors. Among them were two magi, Thera and Morvin, who befriended a peasant boy named Tallin."
             {NR_BIGMAP}
             {REVOLT_STAGE1}
         [/part]
