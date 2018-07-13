@@ -27,12 +27,12 @@
             {PROLOGUE_STAGE1_END}
         [/part]
         [part]
-            story= _ "Dark years passed. Human generations grew up in slavery, worked tirelessly under whip and shackle. The orcs' iron grip on the land grew stronger as they captured unwitting travelers from the south, forcing more and more humans under their oppressive reign. As the decades passed, the humans of the north forgot that they had ever been free and nearly lost all hope."
+            story= _ "Dark years passed. Human generations grew up in slavery, worked tirelessly under whip and shackle. Although the orcs grew more fragmented after the death of the Black-Tusk, their cruel treatment of the humans became only more oppressive over time. As the decades passed, the humans of the north forgot that they had ever been free and nearly lost all hope."
             {NR_BIGMAP}
             {PROLOGUE_STAGE1_END}
         [/part]
         [part]
-            story= _ "Then, in 534 YW, a small group of adventurers was captured and sent to work in the fields surrounding the ruins of Dwarven Doors. Among them were two magi, Thera and Morvin, who befriended a peasant boy named Tallin."
+            story= _ "Then, in 534 YW, a group of adventurers was captured and sent to work in the fields surrounding the ruins of Dwarven Doors. A small dispute arose between two neighboring chieftains over the ownership of the new slaves; after a few less-than-peaceful negotiations, the chieftains agreed to split the humans between them, although they kept a wary eye on each other thereafter. Among those sent to the Wolf-Fang clan were two magi, Thera and Morvin, who befriended a recently-traded peasant boy named Tallin."
             {NR_BIGMAP}
             {REVOLT_STAGE1}
         [/part]
