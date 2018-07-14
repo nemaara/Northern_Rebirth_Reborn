@@ -18,7 +18,7 @@
     [/message]
     [message]
         speaker=Al'Tar
-        message= _ "Those damned Moon-Blades broke into our weapon stockpile last night! Wake the grunts, I need to go pay Garrugch an unfriendly visit!"
+        message= _ "Those damn Moon-Blades broke into our weapon stockpile last night! Wake the grunts, I must go pay Garrugch an unfriendly visit!"
     [/message]
     
     # Garrugch appears, doesn't say anything yet
@@ -41,7 +41,7 @@
     [/message]
     [message]
         speaker=Garrugch
-        message= _ "Yes, that would be a good idea."
+        message= _ "Yes, Al'Tar, that would be a good idea."
     [/message]
     [message]
         speaker=Al'Tar
@@ -49,7 +49,15 @@
     [/message]
     [message]
         speaker=Garrugch
-        message= _ "Steal your weapons? Your grunts were the ones who came and stole <i>my</i> slaves! I'm taking them back!"
+        message= _ "Steal your weapons? Your grunts were the ones who came and stole <i>my</i> slaves! I've come to take them back!"
+    [/message]
+    [message]
+        speaker=Al'Tar
+        message= _ "What nonsense is this? I have no reason to touch those filthy slaves of yours."
+    [/message]
+    [message]
+        speaker=Garrugch
+        message= _ "You lie! If you refuse to return my slaves, I will take them back by force."
     [/message]
     [message]
         speaker=Al'Tar
@@ -63,15 +71,15 @@
     # Pan to Tallin and co
     [message]
         speaker=Tallin
-        message= _ "See, Morvin, I told you it would work. Stealing those weapons and getting some of your old friends to sneak away from the Moon-Blades was a great idea after all."
+        message= _ "See, Morvin, I told you so. Stealing those weapons and getting some of your old friends to sneak away from the Moon-Blades was a great idea after all. Now we have a good chance at fighting our way to freedom."
     [/message]
     [message]
         speaker=Morvin
-        message= _ "Sing your own praises all you want Tallin, we still don't know if this is going to work."
+        message= _ "We still don't know if this is going to work."
     [/message]
     [message]
         speaker=Thera
-        message= _ "You're so dull, Morvin. They look like they're totally ready to rip each others' throats out. Then when they start fighting, we swoop in, finish the job, and we'll be free. It *was* a great idea."
+        message= _ "You're so dull, Morvin. They look like they're totally ready to rip each others' throats out. Then when they start fighting, we swoop in, finish the job, and we'll be free. It's a great idea."
     [/message]
     [message]
         speaker=Zlex
@@ -83,11 +91,11 @@
     [/message]
     [message]
         speaker=Zlex
-        message= _ "Yeah, and you were always crazy."
+        message= _ "Yeah, and you were always crazy. Our freedom's on the line, Thera. This isn't about having fun."
     [/message]
     [message]
         speaker=Tallin
-        message= _ "Come on, guys. Fighting with each other isn't going to accomplish anything. We've already come this far. We should just follow through with this plan. It's our best shot at freedom."
+        message= _ "Come on, guys. Fighting with each other isn't going to accomplish anything. We've already come this far. We should just follow through with this plan. It's our best shot at being free from these horrid orcs."
     [/message]
     [message]
         speaker=Thera
@@ -95,7 +103,7 @@
     [/message]
     [message]
         speaker=Zlex
-        message= _ "I guess you already convinced me when you asked me to sneak away with you, so I'll fight with you."
+        message= _ "Agh. I guess you already convinced me when you asked me to sneak away with you, so I'll fight with you."
     [/message]
     [message]
         speaker=Morvin
@@ -103,7 +111,7 @@
     [/message]
     [message]
         speaker=Tallin
-        message= _ "And you miss being free too. Admit it."
+        message= _ "Heh, true. You miss being free too, though."
     [/message]
     [message]
         speaker=Morvin
@@ -111,7 +119,7 @@
     [/message]
     [message]
         speaker=Tallin
-        message= _ "Me neither. We'll have to be careful. Wait for the orcs to start attacking each other first. We can't engage them head on with just pitchforks. We've got to hit them when they're weakened, then retreat when more come. Hit and run, hit and run."
+        message= _ "Me neither. It's risky, and we're ill-equipped, but I think we can beat them if we're careful. Wait for the orcs to start attacking each other first. We can't engage them head on with just pitchforks. We've got to hit them when they're weakened, then retreat when more come. Hit and run, hit and run."
     [/message]
     [message]
         speaker=Morvin
@@ -143,6 +151,67 @@
         message= _ "Damn, he wasn't bluffing about the rest of his army being away from here. We'd better hurry up and take them down before more of the orcs return."
     [/message]
     
+    # orc leader deaths
+    [event]
+        name=last breath
+        [filter]
+            id=Al'Tar
+        [/filter]
+
+        [message]
+            speaker=Al'Tar
+            message= _ "What... where are... my grunts..? Why don't they... protect me..."
+        [/message]
+        
+        [fire_event]
+            name=orc death
+        [/fire_event]
+    [/event]
+    [event]
+        name=last breath
+        [filter]
+            id=Garrugch
+        [/filter]
+
+        [message]
+            speaker=Garrugch
+            message= _ "Argh! Defeated... by worms..!"
+        [/message]
+        
+        [fire_event]
+            name=orc death
+        [/fire_event]
+    [/event]
+    
+    [event]
+        name=orc death
+        first_time_only=yes
+        
+        [message]
+            speaker=Tallin
+            message= _ "One down, one to go!"
+        [/message]
+    [/event]
+    
+    # victory
+    
+    [event]
+        name=victory
+        
+        [message]
+            speaker=Tallin
+            message= _ "The rest of the orcs are scattering! We did it!"
+        [/message]
+        [message]
+            speaker=Thera
+            message= _ "Damn right, we totally crushed them!"
+        [/message]
+        [message]
+            speaker=Morvin
+            message= _ "The rest of the orcs are scattering! We did it!"
+        [/message]
+    [/event]
+    
     # time over, spawn a bunch of orcs basically
     
     [message]
@@ -154,6 +223,7 @@
         message= _ "We'll never be able to fight them all now..."
     [/message]
     
+    # deaths
     [event]
         name=last breath
         [filter]
@@ -162,7 +232,7 @@
 
         [message]
             speaker=Tallin
-            message= _ "Urgh- I... didn't want it... to end like this..."
+            message= _ "Ugh- I... didn't want it... to end like this..."
         [/message]
     [/event]
     [event]
@@ -184,6 +254,29 @@
 
         [message]
             speaker=Morvin
-            message= _ ""
+            message= _ "Argh! It hurts-"
+        [/message]
+    [/event]
+    
+    [event]
+        name=last breath
+        [filter]
+            id=Zlex
+        [/filter]
+
+        [message]
+            speaker=Zlex
+            message= _ "Oh gods, it's so dark..."
+        [/message]
+    [/event]
+    [event]
+        name=last breath
+        [filter]
+            id=Rugmuph
+        [/filter]
+
+        [message]
+            speaker=Rugmuph
+            message= _ "Ouch! Me- ah"
         [/message]
     [/event]
