@@ -306,7 +306,7 @@
 
         [message]
             speaker=Morvin
-            message= _ "Argh! It hurts-"
+            message= _ "Oof- that... hurts..."
         [/message]
     [/event]
     
@@ -329,6 +329,6 @@
 
         [message]
             speaker=Rugmuph
-            message= _ "Ouch! It hurt! Me no want die- agh!"
+            message= _ "Ouch! It hurt! Me no want die- ah!"
         [/message]
     [/event]
