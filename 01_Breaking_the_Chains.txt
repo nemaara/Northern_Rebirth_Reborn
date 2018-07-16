@@ -204,11 +204,63 @@
         [/message]
         [message]
             speaker=Thera
-            message= _ "Damn right, we totally crushed them!"
+            message= _ "We totally crushed them! See, Morvin? You never know how things will turn out until you try."
         [/message]
         [message]
             speaker=Morvin
-            message= _ "The rest of the orcs are scattering! We did it!"
+            message= _ "(<i>grumbles</i>) Fine, fine. But what do we do now? More orcs will come and I don't think we can keep on fighting like this."
+        [/message]
+        [message]
+            speaker=Tallin
+            message= _ "That's true. I guess I didn't think about what we'd do after we beat the orcs. Maybe we should try making our way south, where you guys came from."
+        [/message]
+        [message]
+            speaker=Morvin
+            message= _ "It would be a journey of several months. We would never make it with this many people. We need to find closer help."
+        [/message]
+        [message]
+            speaker=Tallin
+            message= _ "So, other slaves?"
+        [/message]
+        [message]
+            speaker=Thera
+            message= _ "I think there used to be dwarves who lived around here. We could look for them in the caverns."
+        [/message]
+        [message]
+            speaker=Tallin
+            message= _ "I hear the orcs sometimes talking about having to fight elves as well. Could they be of any help?"
+        [/message]
+        [message]
+            speaker=Morvin
+            message= _ "Unlikely. The Northern Elves aren't the friendliest to strangers. Trust me, we know from experience."
+        [/message]
+        [message]
+            speaker=Thera
+            message= _ "(<i>nods</i>)"
+        [/message]
+        [message]
+            speaker=Tallin
+            message= _ "So then the dwarves? We don't even know where they are, or if they're even alive. I still think we would be better off going to the elves first. They aren't so far from here, and the children and elderly may even be able to take refuge in their forest."
+        [/message]
+        [message]
+            speaker=Morvin
+            message= _ "You're being optimistic."
+        [/message]
+        [message]
+            speaker=Tallin
+            message= _ "You also said that about my plan to free ourselves from the orcs. It's worth a shot. Better than wandering blindly in caves, where we have a better chance of finding more orcs than finding the dwarves."
+        [/message]
+        [message]
+            speaker=Thera
+            message= _ "Either way, we need to get out of here before more orcs come. That fight was fun, but I don't think I want another one so soon."
+        [/message]
+        [message]
+            speaker=Tallin
+            message= _ "Yeah, definitely."
+        [/message]
+        [message]
+            speaker=Morvin
+            message= _ "Agreed."
         [/message]
     [/event]
     
@@ -277,6 +329,6 @@
 
         [message]
             speaker=Rugmuph
-            message= _ "Ouch! Me- ah"
+            message= _ "Ouch! It hurt! Me no want die- agh!"
         [/message]
     [/event]
