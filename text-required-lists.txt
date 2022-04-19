@@ -19,3 +19,12 @@ S3 - The Coalition
 TBA
 
 S3x - Sunken Bastion
+
+Misc:
+
+Death dialogue for Tallin
+Death dialogue for Aiglondur
+Death dialogue for Zorfu
+Death dialogue for Angarthing
+Death dialogue for Hamel
+Death dialogue for Keyya (Gryphon Broodmother)
