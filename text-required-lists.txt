@@ -41,9 +41,32 @@ final cutscene dialogue
 
 S3 - The Coalition
 
-TBA
+start event. Tallin and zorfu talk
+they hear battledrums and battle outside and move to investigate
+dialogue on the Hamel, Dara, Aiglondur and Angarthing and the current state of things
+dialogue on Tallins succeeding the outlaw humans to side with him and accepting Zorfu
+dialogue on turn 3-4 where Tallin/Zorfu remarks to better just rush into the dwarven caverns
+drakes killing dwarves dialogue
+saurians killing dwarves dialogue
+dwarves killing a drake/saurian dialogue
+dialogue on Hamel later on that this is a lost battle
 
-S3x - Sunken Bastion
+03x - Sunken Bastion
+
+dialogue cutscene on the current state of things
+expedition to Kal Kartha considered
+follow-up cutscene on Tallin and his book and eventual transformation to Rogue-Mage line
+(the expedition isn't supposed to start immediately). They take a month to prepare. (see draft)
+
+S4 - Snowclad Peaks
+
+S5 - Gore Knolls
+
+S6 - The East Gate
+
+S7 - Lord Masks
+
+S8 - The Underlevels
 
 Misc:
 
