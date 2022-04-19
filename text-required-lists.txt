@@ -14,6 +14,7 @@ S2 - Ancient Catacombs
 
 start event
 sighted wolves event (remark on goblin spearmen can mount the weaker ones)
+dialogue for goblin taming wolf 
 sighted rock elemental events
 comment on the shrooms and why they should be avoided
 comment on fire elementals sighted
@@ -24,6 +25,7 @@ comment on water serpent
 comment on mudcrawlers
 comment on capturing village event 2,42 (and getting a nasty surprise)
 comment on 35,50 trap 
+comment on 9,55 finding a potion inside
 comment 23,48 (this bridge is broken..so find some other way?)
 comment on sighting tentacle of the deep
 comment on seeing masked dwarves, trolls and saurians fight
