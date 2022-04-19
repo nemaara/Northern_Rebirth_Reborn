@@ -1,14 +1,4 @@
-S1 - Through the Mists
-
-orc leader death dialogue
-drake leader death dialogue
-
-orc kills drake dialogue
-orc kills saurian dialogue
-drake/saurian kills orcs dialogue
-drake/saurian kills goblin
-
-orcs kill human (some dialogue about knocking them out and dragging them back to slave pens later)
+S1 - Through the Mists (tentatively complete)
 
 S2 - Ancient Catacombs
 
