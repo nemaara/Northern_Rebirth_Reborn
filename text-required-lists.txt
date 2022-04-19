@@ -1,5 +1,15 @@
 S1 - Through the Mists (tentatively complete)
 
+S1x - Renegades
+Cutscene
+
+Tallin has not stopped running and entered the woods. He knows the drakes and saurians, and maybe orcs might be pursuing. So he must not stop to rest.
+
+He is then beset by wolves. He thinks this is the end, but is sort of "content" that he is dying a free man. Then suddenly, arrows...and a thrown knife and crossbow bolt fired are heard and then suddenly a small party of orcs and goblins arrive and kill off the wolves.
+(already in recall list of side 1 at cutscene start so they can be recalled to their spots)
+
+This is Clan Withervein...or..whatever's left of it. So...after introductions and brief explanations, Tallin is invited to join them as they wish to escape the madness (not like he has a choice)
+
 S2 - Ancient Catacombs
 
 TBA
@@ -7,3 +17,5 @@ TBA
 S3 - The Coalition
 
 TBA
+
+S3x - Sunken Bastion
