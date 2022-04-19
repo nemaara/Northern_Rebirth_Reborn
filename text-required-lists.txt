@@ -1,11 +1,5 @@
 S1 - Through the Mists
 
-start event dialogue
-    Orcs and Drakes clashing dialogue. Talling says something about escaping. Some sad remark but no other slave wanting to go with him. Some remark about Tallin not finding any weapons to use.
-Slaves coming out of their villages dialogue, showing panic but still not wanting to leave.
-Tallin remarking about use of stealth tactics to dart pass the enemy units.
-Tallin reaching the marker and escaping dialogue.
-
 orc leader death dialogue
 drake leader death dialogue
 
