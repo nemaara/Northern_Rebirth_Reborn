@@ -12,7 +12,30 @@ This is Clan Withervein...or..whatever's left of it. So...after introductions an
 
 S2 - Ancient Catacombs
 
-TBA
+start event
+sighted wolves event (remark on goblin spearmen can mount the weaker ones)
+sighted rock elemental events
+comment on the shrooms and why they should be avoided
+comment on fire elementals sighted
+comment on cave wyrms and cave wyrmlets
+comment on saurians lurking in caves
+comment on seeing the big bear
+comment on water serpent 
+comment on mudcrawlers
+comment on capturing village event 2,42 (and getting a nasty surprise)
+comment on 35,50 trap 
+comment 23,48 (this bridge is broken..so find some other way?)
+comment on sighting tentacle of the deep
+comment on seeing masked dwarves, trolls and saurians fight
+death dialogue for Gruk (clan withervein's last leader)
+comment 26,42 (bridge seems to be broken by rock elementals)
+comment on 24,18 (about maybe the door should be opened?)
+comment on the door's opening and seeing monsters inside. Hehe.
+comment on seeing the gates to the abandoned lab and rushing there
+comment on closing off the gates and getting everyone inside
+comment on exploring
+comment on seeing the book and getting it
+final cutscene dialogue
 
 S3 - The Coalition
 
@@ -36,3 +59,10 @@ Death dialogue for Dulcatolos (might be two sets)
 Death dialogue for Eryssa
 Death dialogue for Elenia
 (they appear as a heroine and loyal in S8, but later as allied side in S11)
+
+Unit descriptions:
+Clockwork units (6 units)
+custom drakes (4 units)
+earth daemons (3 units)
+goblins (3 units)
+
