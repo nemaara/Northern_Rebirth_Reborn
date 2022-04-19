@@ -28,3 +28,11 @@ Death dialogue for Zorfu
 Death dialogue for Angarthing
 Death dialogue for Hamel
 Death dialogue for Keyya (Gryphon Broodmother)
+
+Death dialogue for Dara (the loyal thief/rogue)
+Death dialogue for Dulcatolos (might be two sets)
+    (one for S6 and another which is loyal unit)
+
+Death dialogue for Eryssa
+Death dialogue for Elenia
+(they appear as a heroine and loyal in S8, but later as allied side in S11)
