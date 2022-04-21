@@ -60,6 +60,17 @@ follow-up cutscene on Tallin and his book and eventual transformation to Rogue-M
 
 S4 - Snowclad Peaks
 
+start event - introducing keyya and possibility of gryphon riders
+hunting scenario info in terms of "we need supplies or we're done for"
+sighted drake subjugator dialogue
+encountering the 3 minibosses dialogues
+some dialogue encouraging player to hunt more seriously
+dialogue by drake leaders who flee
+enough supplies gathered dialogue
+gryphon riders unlocked dialogue
+
+(additional scenario dialogue stuff might happen if it's decided to add fruits/herb gathering alongside the meat)
+
 S5 - Gore Knolls
 
 S6 - The East Gate
