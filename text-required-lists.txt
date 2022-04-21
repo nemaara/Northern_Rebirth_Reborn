@@ -90,4 +90,6 @@ Clockwork units (6 units)
 custom drakes (4 units)
 earth daemons (3 units)
 goblins (3 units)
+Flesh Golem
+Abomination
 
