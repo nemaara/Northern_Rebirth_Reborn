@@ -12,7 +12,7 @@ function wesnoth.wml_actions.hint_message(cfg)
         hint_message = wesnoth.interface.add_overlay_text(hint_text, {
             size = 20,
             -- lavender RGB (230,230,250)
-            color = "E6E6FA",
+            color = "967bb6",
             --bgcolor = "0b0d2e",
             --bgalpha = 25,
             duration = "unlimited",
