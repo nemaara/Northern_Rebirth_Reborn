@@ -73,11 +73,33 @@ gryphon riders unlocked dialogue
 
 S5 - Gore Knolls
 
-S6 - The East Gate
+start event dialogue
+subjugation first time dialogue
+dialogue for sighting any of the clan leaders minibosses
+dialogue at turn 3 for "conserving resources" for the upcoming Kal Kartha fight (as they do not know what state its in)
+dialogue sighting for eyestalk
+dialogue sighting for abomination
+dialogue sighting for flesh golem
 
-S7 - Lord Masks
+S06 - The East Gate
 
-S8 - The Underlevels
+S07 - Lord Masks
+
+S08 - The Underlevels
+
+S09 - Pandemonium
+
+S09x - in the fall of the forges
+
+S10 - Behind the Mask
+
+S11 - Smoldering Fracture
+
+S12 - Through the Automaton Labyrinth
+
+S13 - Lord of Runes
+
+S13x - Northern Rebirth
 
 Misc:
 
