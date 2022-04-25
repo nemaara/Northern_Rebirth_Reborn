@@ -4,11 +4,7 @@ S1x - Renegades (complete)
 
 S2 - Ancient Catacombs
 
-start event
-sighted wolves event (remark on goblin spearmen can mount the weaker ones)
-dialogue for goblin taming wolf 
 sighted rock elemental events
-comment on the shrooms and why they should be avoided
 comment on fire elementals sighted
 comment on cave wyrms and cave wyrmlets
 comment on saurians lurking in caves
