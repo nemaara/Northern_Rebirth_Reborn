@@ -71,6 +71,15 @@ dialogue sighting for flesh golem
 
 S06 - The East Gate
 
+start dialogue
+encounter with elves
+encounter with drakes
+moving next to unit of side 2 or 3
+camerin cameo dialogue
+elven leaders retreat dialogue
+enemies defeated dialogue
+death dialogue for drake main leader
+
 S07 - Lord Masks
 
 S08 - The Underlevels
