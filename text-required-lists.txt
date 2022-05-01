@@ -75,6 +75,11 @@ death dialogue for drake main leader
 
 S07 - Lord Masks
 
+start 
+boss fight dialogue (if any)
+defeating Karrag dialogue (probably give some plausible reason why underlevels should be ventured)
+time over event (Oh, no! we're overwhelmed)-type thing
+
 S08 - The Underlevels
 
 S09 - Pandemonium
