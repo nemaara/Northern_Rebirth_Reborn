@@ -1,0 +1,20 @@
+this doc is for potential art contributions
+or requests
+
+warbanner item/scenary for each orc cla (Withervein/Bloodrock/ maybe 2 more)
+
+portraits:
+Tallin, Zorfu
+
+custom sprite set for Tallin
+
+Currently, the Rogue Mage-line from Liberty is being used however it's not what I has in mind for Tallin
+He is pictured 18 years old at the start of this NR/THoT campaign. The Rogue Mage line sort of makes him lose hair and be semi-bald at level 3 which players can get as early as S3. So, losing all hair and looking like an oldman at 18 in just over a few months is absurd.
+The level 1 is fine for him but the higher levels of Shadow Mage and Shadow Lord present this "problem"
+Thus, maybe 3 new base frames for tallin to be some spellsword type. Doesn't have to be blade melee, but rather maybe a club/mace (since he prefers it more).
+
+attack animations for Drake Smasher, Drake Subjugator
+needs a working melee animation for the hammer
+
+enchantment overlay specific icons
+maybe for each type or one in general (I just added a recolored thing I found as a placeholder for now)
