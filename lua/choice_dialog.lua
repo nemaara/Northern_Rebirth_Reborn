@@ -4,6 +4,9 @@ local wml_actions = wesnoth.wml_actions
 -- metatable for GUI tags
 local T = wml.tag
 
+-- support for translatable strings, custom textdomain
+local _ = wesnoth.textdomain "textdomain wesnoth-nrr"
+
 function wml_actions.choice_box( cfg )
 	local variable = cfg.variable or wml.error( "Missing variable= key in [choice_box]" )
 	local choice_values = {} -- it will be populated by preshow, and supply values to postshow
