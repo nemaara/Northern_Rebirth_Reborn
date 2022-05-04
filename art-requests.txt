@@ -18,3 +18,7 @@ needs a working melee animation for the hammer
 
 enchantment overlay specific icons
 maybe for each type or one in general (I just added a recolored thing I found as a placeholder for now)
+
+goblin torcher base frame/animations
+goblin incendiary base frame/animation
+goblin arsonist base frame/animation
