@@ -18,3 +18,9 @@ On the fourth floor of S12, there are 2 closed off chambers. Each has a boss uni
 ## Progression Reset
 
 If on the 4th playthrough, the progression is reset to 0 which is the first starting playthrough.
+
+## Achievements
+
+I think the campaign can have achievements in terms of hidden bosses killed and pages found
+In the final scenario, the user is shown 2 options, end the campaign or view achievements.
+Since this is the first mainline campaign (or candidate) to show achievements I think keeping the number to 12 should be fine.
