@@ -82,7 +82,17 @@ time over event (Oh, no! we're overwhelmed)-type thing
 
 S08 - The Underlevels
 
+start dialogue
+event related dialogue
+boss encounter dialogue
+
 S09 - Pandemonium
+
+start dialogue
+leader death dialogue
+defeated bloodrock chieftain dialogue
+withdrawal of main drake lord dialogue
+mention dialogue of snow-shoes for poachers
 
 S09x - in the fall of the forges
 

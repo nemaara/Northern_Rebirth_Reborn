@@ -22,3 +22,6 @@ maybe for each type or one in general (I just added a recolored thing I found as
 goblin torcher base frame/animations
 goblin incendiary base frame/animation
 goblin arsonist base frame/animation
+
+Caravan:
+Can the human peasant head be swapped for a masked dwarf?
