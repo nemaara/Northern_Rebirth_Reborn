@@ -1,3 +1,4 @@
+-- specific for scenarios 12 and 13
 function wesnoth.wml_actions.recall_party(cfg)
 	local units = wesnoth.units.find_on_recall(cfg)
 
