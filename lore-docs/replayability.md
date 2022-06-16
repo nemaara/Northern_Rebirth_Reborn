@@ -13,7 +13,8 @@ Some bosses will not spawn on the first or second playthroughs, thus the end-ach
 
 ## S12 Bonus Bosses:
 
-On the fourth floor of S12, there are 2 closed off chambers. Each has a boss unit. However, on the first playthrough, player can just go through, facing neither. On the second, they fight boss A and on the third, they fight boss B.
+On the fourth floor of S12, there are 4 optional boss encounters.
+Player can fight...any one at one time.
 
 ## Progression Reset
 
