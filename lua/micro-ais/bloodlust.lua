@@ -5,7 +5,7 @@ function wesnoth.micro_ais.bloodlust(cfg)
         end
 	end
 	local required_keys = {}
-	local optional_keys = { "id", "[filter]", "[filter_location]" }
+	local optional_keys = { id = 'string', filter = "tag", filter_location = "tag" }
 
 	local CA_parms = {
 		ai_id = 'mai_bloodlust',

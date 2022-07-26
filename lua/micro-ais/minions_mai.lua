@@ -14,7 +14,7 @@ function wesnoth.micro_ais.minions_ai(cfg)
 	end
 
 	local required_keys = {}
-	local optional_keys = { "id", "enemy_death_chance", "[filter]", "[filter_second]", "invert_order", "messenger_death_chance", "waypoint_loc", "waypoint_x", "waypoint_y" }
+	local optional_keys = { id = 'string', enemy_death_chance = 'float', filter = "tag", filter_second = 'tag', invert_order = 'boolean', messenger_death_chance = 'float', waypoint_loc = "string", waypoint_x = 'integer_list', waypoint_y = 'integer_list' }
 	local score = cfg.ca_score or 300000
 	local CA_parms = {
 		ai_id = 'northlands_minions_ai',
